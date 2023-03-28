@@ -1,9 +1,9 @@
 # AL
 
-**`A passionate FrontEnd Developer`**
+**`A passionate FrontEnd Developer and Hwang Yeji's BF`**
 
   <p align="left">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Drijalmumtaz%26type%3Djson"/>
+      <img alt="github streak" title="Follow Aku Dong" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Drijalmumtaz%26type%3Djson"/>
       <a href="https://github.com/rijalmumtaz?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rijalmumtaz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/rijalmumtaz?tab=repositories&sort=stargazers">
