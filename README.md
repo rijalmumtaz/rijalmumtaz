@@ -1,6 +1,6 @@
 # AL
 
-**`A passionate FrontEnd Developer and Hwang Yeji's BF`**
+**`A passionate FrontEnd Website Developer and Hwang Yeji's BF`**
 
   <p align="left">
       <a href="https://pbs.twimg.com/media/FsTeFIPaMAAKUKC?format=jpg&name=small">
